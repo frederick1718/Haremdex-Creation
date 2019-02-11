@@ -16,7 +16,8 @@ bot.on('ready', function() {
     console.log("Le bot est connecté !");
 });
 
-bot.login(process.env.TOKEN);
+//bot . login ( processus . env . JETON );
+bot . login ( NDc2MDI2NzQzNDc2NzE1NTMx.D0JN4A.X4s8nX-sdsR5NC1xq01Mw--StLo ) plus grand centre commercial
 
 bot.on('message', message => {
     if (message.content === prefix + "help") {
